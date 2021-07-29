@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(226, 74, 4, 0.452);
+    font-style: italic ;
+}
+#div_centre{
+    margin: 150px 300px;
+}
+h1{
+    font-size: 90px;
+}
+input{
+    width: 600px;
+    height: 50px;
+}
+button{
+    width: 80px;
+    height: 50px;
+}
+p{
+    color: rgb(53, 53, 175);
+}
